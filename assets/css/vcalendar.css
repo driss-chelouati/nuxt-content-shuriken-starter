@@ -180,7 +180,7 @@
 }
 
 .vc-popover-content {
-  @apply bg-white dark:bg-muted-700 border-muted-200 dark:border-muted-700;
+  @apply !bg-white dark:!bg-muted-700 !border-muted-200 dark:!border-muted-700;
 }
 
 .vc-time-content .vc-time-date > span {

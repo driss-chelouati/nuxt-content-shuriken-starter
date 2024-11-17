@@ -11,7 +11,7 @@ if (import.meta.server) {
   }
 }
 
-defineOgImageComponent('AppPage', {
+defineOgImageComponent('Renderer', {
   title: 'Page not found',
 })
 useSeoMeta({

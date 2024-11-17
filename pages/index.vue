@@ -2,7 +2,7 @@
 definePageMeta({
   layout: 'default',
 })
-defineOgImageComponent('AppPage', {
+defineOgImageComponent('Renderer', {
   title: `App title`,
   screen: '/img/favicon.svg',
 })
@@ -13,7 +13,5 @@ useSeoMeta({
 </script>
 
 <template>
-  <div>
-    
-  </div>
+  <div>Index</div>
 </template>

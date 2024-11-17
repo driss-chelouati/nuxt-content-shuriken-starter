@@ -1,5 +1,5 @@
 <script lang="ts" setup>
-defineOgImageComponent('AppPage', {
+defineOgImageComponent('Renderer', {
   title: 'Retrouvez les dernières astuces',
   category: 'blog',
 })

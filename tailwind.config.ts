@@ -26,7 +26,7 @@ export default withShurikenUI({
        */
       colors: {
         // Define only the ones you want to override
-        primary: colors.blue,
+        primary: colors.indigo,
         muted: colors.slate,
         info: colors.sky,
         success: colors.teal,

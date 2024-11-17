@@ -17,6 +17,7 @@ export default defineNuxtConfig({
   css: [
     '~/assets/css/root.css',
     '~/assets/css/gridlines.css',
+    '~/assets/css/vcalendar.css',
   ],
   fontMetrics: {
     fonts: ['Alike', 'Inter'],

@@ -14,7 +14,7 @@ if (!(article as any).value && import.meta.server) {
   }
 }
 
-defineOgImageComponent('AppPage', {
+defineOgImageComponent('Renderer', {
   title: () => article.value?.seoImage?.title || '',
   screen: () => article.value?.seoImage?.screen || '',
   category: 'blog',

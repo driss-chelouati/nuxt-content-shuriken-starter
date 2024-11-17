@@ -68,10 +68,6 @@ export default defineNuxtConfig({
       routes: [
         '/',
       ],
-      // ignore: [
-      //   '/blog',
-      //   '/tarifs',
-      // ],
     },
     esbuild: {
       options: {
